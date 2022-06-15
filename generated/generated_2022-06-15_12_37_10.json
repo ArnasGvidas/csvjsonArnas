@@ -1,0 +1,1676 @@
+{
+    "records": [
+        {
+            "countryterritoryCode": "AFG",
+            "countriesAndTerritories": "Afghanistan",
+            "year": "2020",
+            "month": "9",
+            "cases": 1092,
+            "deaths": 56
+        },
+        {
+            "countryterritoryCode": "ALB",
+            "countriesAndTerritories": "Albania",
+            "year": "2020",
+            "month": "9",
+            "cases": 4138,
+            "deaths": 104
+        },
+        {
+            "countryterritoryCode": "DZA",
+            "countriesAndTerritories": "Algeria",
+            "year": "2020",
+            "month": "9",
+            "cases": 7222,
+            "deaths": 225
+        },
+        {
+            "countryterritoryCode": "AND",
+            "countriesAndTerritories": "Andorra",
+            "year": "2020",
+            "month": "9",
+            "cases": 842,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "AGO",
+            "countriesAndTerritories": "Angola",
+            "year": "2020",
+            "month": "9",
+            "cases": 2281,
+            "deaths": 72
+        },
+        {
+            "countryterritoryCode": "AIA",
+            "countriesAndTerritories": "Anguilla",
+            "year": "2020",
+            "month": "9",
+            "cases": 0,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "ATG",
+            "countriesAndTerritories": "Antigua_and_Barbuda",
+            "year": "2020",
+            "month": "9",
+            "cases": 7,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "ARG",
+            "countriesAndTerritories": "Argentina",
+            "year": "2020",
+            "month": "9",
+            "cases": 335370,
+            "deaths": 8118
+        },
+        {
+            "countryterritoryCode": "ARM",
+            "countriesAndTerritories": "Armenia",
+            "year": "2020",
+            "month": "9",
+            "cases": 6151,
+            "deaths": 81
+        },
+        {
+            "countryterritoryCode": "ABW",
+            "countriesAndTerritories": "Aruba",
+            "year": "2020",
+            "month": "9",
+            "cases": 1937,
+            "deaths": 16
+        },
+        {
+            "countryterritoryCode": "AUS",
+            "countriesAndTerritories": "Australia",
+            "year": "2020",
+            "month": "9",
+            "cases": 1393,
+            "deaths": 271
+        },
+        {
+            "countryterritoryCode": "AUT",
+            "countriesAndTerritories": "Austria",
+            "year": "2020",
+            "month": "9",
+            "cases": 17389,
+            "deaths": 63
+        },
+        {
+            "countryterritoryCode": "AZE",
+            "countriesAndTerritories": "Azerbaijan",
+            "year": "2020",
+            "month": "9",
+            "cases": 3810,
+            "deaths": 59
+        },
+        {
+            "countryterritoryCode": "BHS",
+            "countriesAndTerritories": "Bahamas",
+            "year": "2020",
+            "month": "9",
+            "cases": 1736,
+            "deaths": 48
+        },
+        {
+            "countryterritoryCode": "BHR",
+            "countriesAndTerritories": "Bahrain",
+            "year": "2020",
+            "month": "9",
+            "cases": 18848,
+            "deaths": 57
+        },
+        {
+            "countryterritoryCode": "BGD",
+            "countriesAndTerritories": "Bangladesh",
+            "year": "2020",
+            "month": "9",
+            "cases": 51221,
+            "deaths": 971
+        },
+        {
+            "countryterritoryCode": "BRB",
+            "countriesAndTerritories": "Barbados",
+            "year": "2020",
+            "month": "9",
+            "cases": 17,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "BLR",
+            "countriesAndTerritories": "Belarus",
+            "year": "2020",
+            "month": "9",
+            "cases": 6573,
+            "deaths": 152
+        },
+        {
+            "countryterritoryCode": "BEL",
+            "countriesAndTerritories": "Belgium",
+            "year": "2020",
+            "month": "9",
+            "cases": 36970,
+            "deaths": 125
+        },
+        {
+            "countryterritoryCode": "BLZ",
+            "countriesAndTerritories": "Belize",
+            "year": "2020",
+            "month": "9",
+            "cases": 949,
+            "deaths": 13
+        },
+        {
+            "countryterritoryCode": "BEN",
+            "countriesAndTerritories": "Benin",
+            "year": "2020",
+            "month": "9",
+            "cases": 195,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "BMU",
+            "countriesAndTerritories": "Bermuda",
+            "year": "2020",
+            "month": "9",
+            "cases": 12,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "BTN",
+            "countriesAndTerritories": "Bhutan",
+            "year": "2020",
+            "month": "9",
+            "cases": 57,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "BOL",
+            "countriesAndTerritories": "Bolivia",
+            "year": "2020",
+            "month": "9",
+            "cases": 18673,
+            "deaths": 2965
+        },
+        {
+            "countryterritoryCode": "BES",
+            "countriesAndTerritories": "Bonaire, Saint Eustatius and Saba",
+            "year": "2020",
+            "month": "9",
+            "cases": 91,
+            "deaths": 1
+        },
+        {
+            "countryterritoryCode": "BIH",
+            "countriesAndTerritories": "Bosnia_and_Herzegovina",
+            "year": "2020",
+            "month": "9",
+            "cases": 7433,
+            "deaths": 244
+        },
+        {
+            "countryterritoryCode": "BWA",
+            "countriesAndTerritories": "Botswana",
+            "year": "2020",
+            "month": "9",
+            "cases": 1539,
+            "deaths": 10
+        },
+        {
+            "countryterritoryCode": "BRA",
+            "countriesAndTerritories": "Brazil",
+            "year": "2020",
+            "month": "9",
+            "cases": 915211,
+            "deaths": 22093
+        },
+        {
+            "countryterritoryCode": "VGB",
+            "countriesAndTerritories": "British_Virgin_Islands",
+            "year": "2020",
+            "month": "9",
+            "cases": 34,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "BRN",
+            "countriesAndTerritories": "Brunei_Darussalam",
+            "year": "2020",
+            "month": "9",
+            "cases": 2,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "BGR",
+            "countriesAndTerritories": "Bulgaria",
+            "year": "2020",
+            "month": "9",
+            "cases": 4357,
+            "deaths": 201
+        },
+        {
+            "countryterritoryCode": "BFA",
+            "countriesAndTerritories": "Burkina_Faso",
+            "year": "2020",
+            "month": "9",
+            "cases": 664,
+            "deaths": 3
+        },
+        {
+            "countryterritoryCode": "BDI",
+            "countriesAndTerritories": "Burundi",
+            "year": "2020",
+            "month": "9",
+            "cases": 61,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "KHM",
+            "countriesAndTerritories": "Cambodia",
+            "year": "2020",
+            "month": "9",
+            "cases": 3,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "CMR",
+            "countriesAndTerritories": "Cameroon",
+            "year": "2020",
+            "month": "9",
+            "cases": 1696,
+            "deaths": 7
+        },
+        {
+            "countryterritoryCode": "CAN",
+            "countriesAndTerritories": "Canada",
+            "year": "2020",
+            "month": "9",
+            "cases": 29021,
+            "deaths": 174
+        },
+        {
+            "countryterritoryCode": "CPV",
+            "countriesAndTerritories": "Cape_Verde",
+            "year": "2020",
+            "month": "9",
+            "cases": 2048,
+            "deaths": 19
+        },
+        {
+            "countryterritoryCode": "CYM",
+            "countriesAndTerritories": "Cayman_Islands",
+            "year": "2020",
+            "month": "9",
+            "cases": 6,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "CAF",
+            "countriesAndTerritories": "Central_African_Republic",
+            "year": "2020",
+            "month": "9",
+            "cases": 125,
+            "deaths": 1
+        },
+        {
+            "countryterritoryCode": "TCD",
+            "countriesAndTerritories": "Chad",
+            "year": "2020",
+            "month": "9",
+            "cases": 181,
+            "deaths": 8
+        },
+        {
+            "countryterritoryCode": "CHL",
+            "countriesAndTerritories": "Chile",
+            "year": "2020",
+            "month": "9",
+            "cases": 51326,
+            "deaths": 1481
+        },
+        {
+            "countryterritoryCode": "CHN",
+            "countriesAndTerritories": "China",
+            "year": "2020",
+            "month": "9",
+            "cases": 633,
+            "deaths": 17
+        },
+        {
+            "countryterritoryCode": "COL",
+            "countriesAndTerritories": "Colombia",
+            "year": "2020",
+            "month": "9",
+            "cases": 216104,
+            "deaths": 6464
+        },
+        {
+            "countryterritoryCode": "COM",
+            "countriesAndTerritories": "Comoros",
+            "year": "2020",
+            "month": "9",
+            "cases": 56,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "COG",
+            "countriesAndTerritories": "Congo",
+            "year": "2020",
+            "month": "9",
+            "cases": 1110,
+            "deaths": 11
+        },
+        {
+            "countryterritoryCode": "CRI",
+            "countriesAndTerritories": "Costa_Rica",
+            "year": "2020",
+            "month": "9",
+            "cases": 34905,
+            "deaths": 462
+        },
+        {
+            "countryterritoryCode": "CIV",
+            "countriesAndTerritories": "Cote_dIvoire",
+            "year": "2020",
+            "month": "9",
+            "cases": 1721,
+            "deaths": 5
+        },
+        {
+            "countryterritoryCode": "HRV",
+            "countriesAndTerritories": "Croatia",
+            "year": "2020",
+            "month": "9",
+            "cases": 6257,
+            "deaths": 91
+        },
+        {
+            "countryterritoryCode": "CUB",
+            "countriesAndTerritories": "Cuba",
+            "year": "2020",
+            "month": "9",
+            "cases": 1558,
+            "deaths": 28
+        },
+        {
+            "countryterritoryCode": "CUW",
+            "countriesAndTerritories": "Cura\u00e7ao",
+            "year": "2020",
+            "month": "9",
+            "cases": 313,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "CYP",
+            "countriesAndTerritories": "Cyprus",
+            "year": "2020",
+            "month": "9",
+            "cases": 256,
+            "deaths": 1
+        },
+        {
+            "countryterritoryCode": "CZE",
+            "countriesAndTerritories": "Czechia",
+            "year": "2020",
+            "month": "9",
+            "cases": 43476,
+            "deaths": 213
+        },
+        {
+            "countryterritoryCode": "COD",
+            "countriesAndTerritories": "Democratic_Republic_of_the_Congo",
+            "year": "2020",
+            "month": "9",
+            "cases": 586,
+            "deaths": 14
+        },
+        {
+            "countryterritoryCode": "DNK",
+            "countriesAndTerritories": "Denmark",
+            "year": "2020",
+            "month": "9",
+            "cases": 10764,
+            "deaths": 26
+        },
+        {
+            "countryterritoryCode": "DJI",
+            "countriesAndTerritories": "Djibouti",
+            "year": "2020",
+            "month": "9",
+            "cases": 31,
+            "deaths": 1
+        },
+        {
+            "countryterritoryCode": "DMA",
+            "countriesAndTerritories": "Dominica",
+            "year": "2020",
+            "month": "9",
+            "cases": 4,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "DOM",
+            "countriesAndTerritories": "Dominican_Republic",
+            "year": "2020",
+            "month": "9",
+            "cases": 17659,
+            "deaths": 420
+        },
+        {
+            "countryterritoryCode": "ECU",
+            "countriesAndTerritories": "Ecuador",
+            "year": "2020",
+            "month": "9",
+            "cases": 22101,
+            "deaths": 4757
+        },
+        {
+            "countryterritoryCode": "EGY",
+            "countriesAndTerritories": "Egypt",
+            "year": "2020",
+            "month": "9",
+            "cases": 4352,
+            "deaths": 515
+        },
+        {
+            "countryterritoryCode": "SLV",
+            "countriesAndTerritories": "El_Salvador",
+            "year": "2020",
+            "month": "9",
+            "cases": 3252,
+            "deaths": 126
+        },
+        {
+            "countryterritoryCode": "GNQ",
+            "countriesAndTerritories": "Equatorial_Guinea",
+            "year": "2020",
+            "month": "9",
+            "cases": 89,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "ERI",
+            "countriesAndTerritories": "Eritrea",
+            "year": "2020",
+            "month": "9",
+            "cases": 57,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "EST",
+            "countriesAndTerritories": "Estonia",
+            "year": "2020",
+            "month": "9",
+            "cases": 942,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "SWZ",
+            "countriesAndTerritories": "Eswatini",
+            "year": "2020",
+            "month": "9",
+            "cases": 901,
+            "deaths": 17
+        },
+        {
+            "countryterritoryCode": "ETH",
+            "countriesAndTerritories": "Ethiopia",
+            "year": "2020",
+            "month": "9",
+            "cases": 23462,
+            "deaths": 398
+        },
+        {
+            "countryterritoryCode": "FLK",
+            "countriesAndTerritories": "Falkland_Islands_(Malvinas)",
+            "year": "2020",
+            "month": "9",
+            "cases": 0,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "FRO",
+            "countriesAndTerritories": "Faroe_Islands",
+            "year": "2020",
+            "month": "9",
+            "cases": 52,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "FJI",
+            "countriesAndTerritories": "Fiji",
+            "year": "2020",
+            "month": "9",
+            "cases": 4,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "FIN",
+            "countriesAndTerritories": "Finland",
+            "year": "2020",
+            "month": "9",
+            "cases": 1815,
+            "deaths": 8
+        },
+        {
+            "countryterritoryCode": "FRA",
+            "countriesAndTerritories": "France",
+            "year": "2020",
+            "month": "9",
+            "cases": 272747,
+            "deaths": 1287
+        },
+        {
+            "countryterritoryCode": "PYF",
+            "countriesAndTerritories": "French_Polynesia",
+            "year": "2020",
+            "month": "9",
+            "cases": 1246,
+            "deaths": 7
+        },
+        {
+            "countryterritoryCode": "GAB",
+            "countriesAndTerritories": "Gabon",
+            "year": "2020",
+            "month": "9",
+            "cases": 247,
+            "deaths": 1
+        },
+        {
+            "countryterritoryCode": "GMB",
+            "countriesAndTerritories": "Gambia",
+            "year": "2020",
+            "month": "9",
+            "cases": 616,
+            "deaths": 16
+        },
+        {
+            "countryterritoryCode": "GEO",
+            "countriesAndTerritories": "Georgia",
+            "year": "2020",
+            "month": "9",
+            "cases": 4379,
+            "deaths": 14
+        },
+        {
+            "countryterritoryCode": "DEU",
+            "countriesAndTerritories": "Germany",
+            "year": "2020",
+            "month": "9",
+            "cases": 46838,
+            "deaths": 190
+        },
+        {
+            "countryterritoryCode": "GHA",
+            "countriesAndTerritories": "Ghana",
+            "year": "2020",
+            "month": "9",
+            "cases": 2277,
+            "deaths": 25
+        },
+        {
+            "countryterritoryCode": "GIB",
+            "countriesAndTerritories": "Gibraltar",
+            "year": "2020",
+            "month": "9",
+            "cases": 106,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "GRC",
+            "countriesAndTerritories": "Greece",
+            "year": "2020",
+            "month": "9",
+            "cases": 7989,
+            "deaths": 126
+        },
+        {
+            "countryterritoryCode": "GRL",
+            "countriesAndTerritories": "Greenland",
+            "year": "2020",
+            "month": "9",
+            "cases": 0,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "GRD",
+            "countriesAndTerritories": "Grenada",
+            "year": "2020",
+            "month": "9",
+            "cases": 0,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "GUM",
+            "countriesAndTerritories": "Guam",
+            "year": "2020",
+            "month": "9",
+            "cases": 1096,
+            "deaths": 37
+        },
+        {
+            "countryterritoryCode": "GTM",
+            "countriesAndTerritories": "Guatemala",
+            "year": "2020",
+            "month": "9",
+            "cases": 17056,
+            "deaths": 498
+        },
+        {
+            "countryterritoryCode": "GGY",
+            "countriesAndTerritories": "Guernsey",
+            "year": "2020",
+            "month": "9",
+            "cases": 4,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "GIN",
+            "countriesAndTerritories": "Guinea",
+            "year": "2020",
+            "month": "9",
+            "cases": 1263,
+            "deaths": 7
+        },
+        {
+            "countryterritoryCode": "GNB",
+            "countriesAndTerritories": "Guinea_Bissau",
+            "year": "2020",
+            "month": "9",
+            "cases": 119,
+            "deaths": 5
+        },
+        {
+            "countryterritoryCode": "GUY",
+            "countriesAndTerritories": "Guyana",
+            "year": "2020",
+            "month": "9",
+            "cases": 1612,
+            "deaths": 41
+        },
+        {
+            "countryterritoryCode": "HTI",
+            "countriesAndTerritories": "Haiti",
+            "year": "2020",
+            "month": "9",
+            "cases": 538,
+            "deaths": 28
+        },
+        {
+            "countryterritoryCode": "VAT",
+            "countriesAndTerritories": "Holy_See",
+            "year": "2020",
+            "month": "9",
+            "cases": 0,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "HND",
+            "countriesAndTerritories": "Honduras",
+            "year": "2020",
+            "month": "9",
+            "cases": 15924,
+            "deaths": 465
+        },
+        {
+            "countryterritoryCode": "HUN",
+            "countriesAndTerritories": "Hungary",
+            "year": "2020",
+            "month": "9",
+            "cases": 20500,
+            "deaths": 151
+        },
+        {
+            "countryterritoryCode": "ISL",
+            "countriesAndTerritories": "Iceland",
+            "year": "2020",
+            "month": "9",
+            "cases": 590,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "IND",
+            "countriesAndTerritories": "India",
+            "year": "2020",
+            "month": "9",
+            "cases": 2604518,
+            "deaths": 33028
+        },
+        {
+            "countryterritoryCode": "IDN",
+            "countriesAndTerritories": "Indonesia",
+            "year": "2020",
+            "month": "9",
+            "cases": 110671,
+            "deaths": 3258
+        },
+        {
+            "countryterritoryCode": "IRN",
+            "countriesAndTerritories": "Iran",
+            "year": "2020",
+            "month": "9",
+            "cases": 80067,
+            "deaths": 4524
+        },
+        {
+            "countryterritoryCode": "IRQ",
+            "countriesAndTerritories": "Iraq",
+            "year": "2020",
+            "month": "9",
+            "cases": 127113,
+            "deaths": 2163
+        },
+        {
+            "countryterritoryCode": "IRL",
+            "countriesAndTerritories": "Ireland",
+            "year": "2020",
+            "month": "9",
+            "cases": 6980,
+            "deaths": 26
+        },
+        {
+            "countryterritoryCode": "IMN",
+            "countriesAndTerritories": "Isle_of_Man",
+            "year": "2020",
+            "month": "9",
+            "cases": 4,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "ISR",
+            "countriesAndTerritories": "Israel",
+            "year": "2020",
+            "month": "9",
+            "cases": 122906,
+            "deaths": 609
+        },
+        {
+            "countryterritoryCode": "ITA",
+            "countriesAndTerritories": "Italy",
+            "year": "2020",
+            "month": "9",
+            "cases": 44793,
+            "deaths": 398
+        },
+        {
+            "countryterritoryCode": "JAM",
+            "countriesAndTerritories": "Jamaica",
+            "year": "2020",
+            "month": "9",
+            "cases": 4025,
+            "deaths": 79
+        },
+        {
+            "countryterritoryCode": "JPN",
+            "countriesAndTerritories": "Japan",
+            "year": "2020",
+            "month": "9",
+            "cases": 15145,
+            "deaths": 285
+        },
+        {
+            "countryterritoryCode": "JEY",
+            "countriesAndTerritories": "Jersey",
+            "year": "2020",
+            "month": "9",
+            "cases": 35,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "JOR",
+            "countriesAndTerritories": "Jordan",
+            "year": "2020",
+            "month": "9",
+            "cases": 8083,
+            "deaths": 42
+        },
+        {
+            "countryterritoryCode": "KAZ",
+            "countriesAndTerritories": "Kazakhstan",
+            "year": "2020",
+            "month": "9",
+            "cases": 10034,
+            "deaths": 297
+        },
+        {
+            "countryterritoryCode": "KEN",
+            "countriesAndTerritories": "Kenya",
+            "year": "2020",
+            "month": "9",
+            "cases": 4321,
+            "deaths": 133
+        },
+        {
+            "countryterritoryCode": "XKX",
+            "countriesAndTerritories": "Kosovo",
+            "year": "2020",
+            "month": "9",
+            "cases": 2240,
+            "deaths": 109
+        },
+        {
+            "countryterritoryCode": "KWT",
+            "countriesAndTerritories": "Kuwait",
+            "year": "2020",
+            "month": "9",
+            "cases": 19932,
+            "deaths": 77
+        },
+        {
+            "countryterritoryCode": "KGZ",
+            "countriesAndTerritories": "Kyrgyzstan",
+            "year": "2020",
+            "month": "9",
+            "cases": 2771,
+            "deaths": 6
+        },
+        {
+            "countryterritoryCode": "LAO",
+            "countriesAndTerritories": "Laos",
+            "year": "2020",
+            "month": "9",
+            "cases": 1,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "LVA",
+            "countriesAndTerritories": "Latvia",
+            "year": "2020",
+            "month": "9",
+            "cases": 336,
+            "deaths": 3
+        },
+        {
+            "countryterritoryCode": "LBN",
+            "countriesAndTerritories": "Lebanon",
+            "year": "2020",
+            "month": "9",
+            "cases": 21507,
+            "deaths": 201
+        },
+        {
+            "countryterritoryCode": "LSO",
+            "countriesAndTerritories": "Lesotho",
+            "year": "2020",
+            "month": "9",
+            "cases": 510,
+            "deaths": 4
+        },
+        {
+            "countryterritoryCode": "LBR",
+            "countriesAndTerritories": "Liberia",
+            "year": "2020",
+            "month": "9",
+            "cases": 39,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "LBY",
+            "countriesAndTerritories": "Libya",
+            "year": "2020",
+            "month": "9",
+            "cases": 20591,
+            "deaths": 308
+        },
+        {
+            "countryterritoryCode": "LIE",
+            "countriesAndTerritories": "Liechtenstein",
+            "year": "2020",
+            "month": "9",
+            "cases": 12,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "LTU",
+            "countriesAndTerritories": "Lithuania",
+            "year": "2020",
+            "month": "9",
+            "cases": 1704,
+            "deaths": 6
+        },
+        {
+            "countryterritoryCode": "LUX",
+            "countriesAndTerritories": "Luxembourg",
+            "year": "2020",
+            "month": "9",
+            "cases": 1806,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "MDG",
+            "countriesAndTerritories": "Madagascar",
+            "year": "2020",
+            "month": "9",
+            "cases": 1534,
+            "deaths": 38
+        },
+        {
+            "countryterritoryCode": "MWI",
+            "countriesAndTerritories": "Malawi",
+            "year": "2020",
+            "month": "9",
+            "cases": 236,
+            "deaths": 5
+        },
+        {
+            "countryterritoryCode": "MYS",
+            "countriesAndTerritories": "Malaysia",
+            "year": "2020",
+            "month": "9",
+            "cases": 1801,
+            "deaths": 8
+        },
+        {
+            "countryterritoryCode": "MDV",
+            "countriesAndTerritories": "Maldives",
+            "year": "2020",
+            "month": "9",
+            "cases": 2527,
+            "deaths": 6
+        },
+        {
+            "countryterritoryCode": "MLI",
+            "countriesAndTerritories": "Mali",
+            "year": "2020",
+            "month": "9",
+            "cases": 317,
+            "deaths": 4
+        },
+        {
+            "countryterritoryCode": "MLT",
+            "countriesAndTerritories": "Malta",
+            "year": "2020",
+            "month": "9",
+            "cases": 1164,
+            "deaths": 22
+        },
+        {
+            "countryterritoryCode": "MRT",
+            "countriesAndTerritories": "Mauritania",
+            "year": "2020",
+            "month": "9",
+            "cases": 452,
+            "deaths": 2
+        },
+        {
+            "countryterritoryCode": "MUS",
+            "countriesAndTerritories": "Mauritius",
+            "year": "2020",
+            "month": "9",
+            "cases": 35,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "MEX",
+            "countriesAndTerritories": "Mexico",
+            "year": "2020",
+            "month": "9",
+            "cases": 142632,
+            "deaths": 13005
+        },
+        {
+            "countryterritoryCode": "MDA",
+            "countriesAndTerritories": "Moldova",
+            "year": "2020",
+            "month": "9",
+            "cases": 15329,
+            "deaths": 318
+        },
+        {
+            "countryterritoryCode": "MCO",
+            "countriesAndTerritories": "Monaco",
+            "year": "2020",
+            "month": "9",
+            "cases": 83,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "MNG",
+            "countriesAndTerritories": "Mongolia",
+            "year": "2020",
+            "month": "9",
+            "cases": 12,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "MNE",
+            "countriesAndTerritories": "Montenegro",
+            "year": "2020",
+            "month": "9",
+            "cases": 5785,
+            "deaths": 66
+        },
+        {
+            "countryterritoryCode": "MSF",
+            "countriesAndTerritories": "Montserrat",
+            "year": "2020",
+            "month": "9",
+            "cases": 0,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "MAR",
+            "countriesAndTerritories": "Morocco",
+            "year": "2020",
+            "month": "9",
+            "cases": 59784,
+            "deaths": 1041
+        },
+        {
+            "countryterritoryCode": "MOZ",
+            "countriesAndTerritories": "Mozambique",
+            "year": "2020",
+            "month": "9",
+            "cases": 4735,
+            "deaths": 36
+        },
+        {
+            "countryterritoryCode": "MMR",
+            "countriesAndTerritories": "Myanmar",
+            "year": "2020",
+            "month": "9",
+            "cases": 11638,
+            "deaths": 278
+        },
+        {
+            "countryterritoryCode": "NAM",
+            "countriesAndTerritories": "Namibia",
+            "year": "2020",
+            "month": "9",
+            "cases": 3775,
+            "deaths": 49
+        },
+        {
+            "countryterritoryCode": "NPL",
+            "countriesAndTerritories": "Nepal",
+            "year": "2020",
+            "month": "9",
+            "cases": 37697,
+            "deaths": 270
+        },
+        {
+            "countryterritoryCode": "NLD",
+            "countriesAndTerritories": "Netherlands",
+            "year": "2020",
+            "month": "9",
+            "cases": 47349,
+            "deaths": 169
+        },
+        {
+            "countryterritoryCode": "NCL",
+            "countriesAndTerritories": "New_Caledonia",
+            "year": "2020",
+            "month": "9",
+            "cases": 4,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "NZL",
+            "countriesAndTerritories": "New_Zealand",
+            "year": "2020",
+            "month": "9",
+            "cases": 93,
+            "deaths": 3
+        },
+        {
+            "countryterritoryCode": "NIC",
+            "countriesAndTerritories": "Nicaragua",
+            "year": "2020",
+            "month": "9",
+            "cases": 676,
+            "deaths": 14
+        },
+        {
+            "countryterritoryCode": "NER",
+            "countriesAndTerritories": "Niger",
+            "year": "2020",
+            "month": "9",
+            "cases": 20,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "NGA",
+            "countriesAndTerritories": "Nigeria",
+            "year": "2020",
+            "month": "9",
+            "cases": 4782,
+            "deaths": 98
+        },
+        {
+            "countryterritoryCode": "MKD",
+            "countriesAndTerritories": "North_Macedonia",
+            "year": "2020",
+            "month": "9",
+            "cases": 3859,
+            "deaths": 153
+        },
+        {
+            "countryterritoryCode": "MNP",
+            "countriesAndTerritories": "Northern_Mariana_Islands",
+            "year": "2020",
+            "month": "9",
+            "cases": 14,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "NOR",
+            "countriesAndTerritories": "Norway",
+            "year": "2020",
+            "month": "9",
+            "cases": 3245,
+            "deaths": 10
+        },
+        {
+            "countryterritoryCode": "OMN",
+            "countriesAndTerritories": "Oman",
+            "year": "2020",
+            "month": "9",
+            "cases": 13041,
+            "deaths": 258
+        },
+        {
+            "countryterritoryCode": "PAK",
+            "countriesAndTerritories": "Pakistan",
+            "year": "2020",
+            "month": "9",
+            "cases": 16414,
+            "deaths": 185
+        },
+        {
+            "countryterritoryCode": "PSE",
+            "countriesAndTerritories": "Palestine",
+            "year": "2020",
+            "month": "9",
+            "cases": 21052,
+            "deaths": 194
+        },
+        {
+            "countryterritoryCode": "PAN",
+            "countriesAndTerritories": "Panama",
+            "year": "2020",
+            "month": "9",
+            "cases": 19788,
+            "deaths": 369
+        },
+        {
+            "countryterritoryCode": "PNG",
+            "countriesAndTerritories": "Papua_New_Guinea",
+            "year": "2020",
+            "month": "9",
+            "cases": 75,
+            "deaths": 2
+        },
+        {
+            "countryterritoryCode": "PRY",
+            "countriesAndTerritories": "Paraguay",
+            "year": "2020",
+            "month": "9",
+            "cases": 22906,
+            "deaths": 533
+        },
+        {
+            "countryterritoryCode": "PER",
+            "countriesAndTerritories": "Peru",
+            "year": "2020",
+            "month": "9",
+            "cases": 164602,
+            "deaths": 3608
+        },
+        {
+            "countryterritoryCode": "PHL",
+            "countriesAndTerritories": "Philippines",
+            "year": "2020",
+            "month": "9",
+            "cases": 91907,
+            "deaths": 1928
+        },
+        {
+            "countryterritoryCode": "POL",
+            "countriesAndTerritories": "Poland",
+            "year": "2020",
+            "month": "9",
+            "cases": 23092,
+            "deaths": 450
+        },
+        {
+            "countryterritoryCode": "PRT",
+            "countriesAndTerritories": "Portugal",
+            "year": "2020",
+            "month": "9",
+            "cases": 16949,
+            "deaths": 144
+        },
+        {
+            "countryterritoryCode": "PRI",
+            "countriesAndTerritories": "Puerto_Rico",
+            "year": "2020",
+            "month": "9",
+            "cases": 15619,
+            "deaths": 220
+        },
+        {
+            "countryterritoryCode": "QAT",
+            "countriesAndTerritories": "Qatar",
+            "year": "2020",
+            "month": "9",
+            "cases": 6958,
+            "deaths": 17
+        },
+        {
+            "countryterritoryCode": "ROU",
+            "countriesAndTerritories": "Romania",
+            "year": "2020",
+            "month": "9",
+            "cases": 38629,
+            "deaths": 1214
+        },
+        {
+            "countryterritoryCode": "RUS",
+            "countriesAndTerritories": "Russia",
+            "year": "2020",
+            "month": "9",
+            "cases": 177479,
+            "deaths": 3452
+        },
+        {
+            "countryterritoryCode": "RWA",
+            "countriesAndTerritories": "Rwanda",
+            "year": "2020",
+            "month": "9",
+            "cases": 816,
+            "deaths": 13
+        },
+        {
+            "countryterritoryCode": "KNA",
+            "countriesAndTerritories": "Saint_Kitts_and_Nevis",
+            "year": "2020",
+            "month": "9",
+            "cases": 2,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "LCA",
+            "countriesAndTerritories": "Saint_Lucia",
+            "year": "2020",
+            "month": "9",
+            "cases": 1,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "VCT",
+            "countriesAndTerritories": "Saint_Vincent_and_the_Grenadines",
+            "year": "2020",
+            "month": "9",
+            "cases": 4,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "SMR",
+            "countriesAndTerritories": "San_Marino",
+            "year": "2020",
+            "month": "9",
+            "cases": 17,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "STP",
+            "countriesAndTerritories": "Sao_Tome_and_Principe",
+            "year": "2020",
+            "month": "9",
+            "cases": 15,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "SAU",
+            "countriesAndTerritories": "Saudi_Arabia",
+            "year": "2020",
+            "month": "9",
+            "cases": 19366,
+            "deaths": 869
+        },
+        {
+            "countryterritoryCode": "SEN",
+            "countriesAndTerritories": "Senegal",
+            "year": "2020",
+            "month": "9",
+            "cases": 1389,
+            "deaths": 26
+        },
+        {
+            "countryterritoryCode": "SRB",
+            "countriesAndTerritories": "Serbia",
+            "year": "2020",
+            "month": "9",
+            "cases": 2114,
+            "deaths": 38
+        },
+        {
+            "countryterritoryCode": "SYC",
+            "countriesAndTerritories": "Seychelles",
+            "year": "2020",
+            "month": "9",
+            "cases": 7,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "SLE",
+            "countriesAndTerritories": "Sierra_Leone",
+            "year": "2020",
+            "month": "9",
+            "cases": 200,
+            "deaths": 2
+        },
+        {
+            "countryterritoryCode": "SGP",
+            "countriesAndTerritories": "Singapore",
+            "year": "2020",
+            "month": "9",
+            "cases": 971,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "SXM",
+            "countriesAndTerritories": "Sint_Maarten",
+            "year": "2020",
+            "month": "9",
+            "cases": 196,
+            "deaths": 5
+        },
+        {
+            "countryterritoryCode": "SVK",
+            "countriesAndTerritories": "Slovakia",
+            "year": "2020",
+            "month": "9",
+            "cases": 5698,
+            "deaths": 12
+        },
+        {
+            "countryterritoryCode": "SVN",
+            "countriesAndTerritories": "Slovenia",
+            "year": "2020",
+            "month": "9",
+            "cases": 2622,
+            "deaths": 10
+        },
+        {
+            "countryterritoryCode": "SOM",
+            "countriesAndTerritories": "Somalia",
+            "year": "2020",
+            "month": "9",
+            "cases": 278,
+            "deaths": 2
+        },
+        {
+            "countryterritoryCode": "ZAF",
+            "countriesAndTerritories": "South_Africa",
+            "year": "2020",
+            "month": "9",
+            "cases": 47516,
+            "deaths": 2639
+        },
+        {
+            "countryterritoryCode": "KOR",
+            "countriesAndTerritories": "South_Korea",
+            "year": "2020",
+            "month": "9",
+            "cases": 3865,
+            "deaths": 89
+        },
+        {
+            "countryterritoryCode": "SSD",
+            "countriesAndTerritories": "South_Sudan",
+            "year": "2020",
+            "month": "9",
+            "cases": 181,
+            "deaths": 2
+        },
+        {
+            "countryterritoryCode": "ESP",
+            "countriesAndTerritories": "Spain",
+            "year": "2020",
+            "month": "9",
+            "cases": 306330,
+            "deaths": 2697
+        },
+        {
+            "countryterritoryCode": "LKA",
+            "countriesAndTerritories": "Sri_Lanka",
+            "year": "2020",
+            "month": "9",
+            "cases": 362,
+            "deaths": 1
+        },
+        {
+            "countryterritoryCode": "SDN",
+            "countriesAndTerritories": "Sudan",
+            "year": "2020",
+            "month": "9",
+            "cases": 417,
+            "deaths": 13
+        },
+        {
+            "countryterritoryCode": "SUR",
+            "countriesAndTerritories": "Suriname",
+            "year": "2020",
+            "month": "9",
+            "cases": 854,
+            "deaths": 37
+        },
+        {
+            "countryterritoryCode": "SWE",
+            "countriesAndTerritories": "Sweden",
+            "year": "2020",
+            "month": "9",
+            "cases": 8913,
+            "deaths": 51
+        },
+        {
+            "countryterritoryCode": "CHE",
+            "countriesAndTerritories": "Switzerland",
+            "year": "2020",
+            "month": "9",
+            "cases": 10845,
+            "deaths": 57
+        },
+        {
+            "countryterritoryCode": "SYR",
+            "countriesAndTerritories": "Syria",
+            "year": "2020",
+            "month": "9",
+            "cases": 1445,
+            "deaths": 88
+        },
+        {
+            "countryterritoryCode": "CNG1925",
+            "countriesAndTerritories": "Taiwan",
+            "year": "2020",
+            "month": "9",
+            "cases": 26,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "TJK",
+            "countriesAndTerritories": "Tajikistan",
+            "year": "2020",
+            "month": "9",
+            "cases": 1176,
+            "deaths": 7
+        },
+        {
+            "countryterritoryCode": "THA",
+            "countriesAndTerritories": "Thailand",
+            "year": "2020",
+            "month": "9",
+            "cases": 152,
+            "deaths": 1
+        },
+        {
+            "countryterritoryCode": "TLS",
+            "countriesAndTerritories": "Timor_Leste",
+            "year": "2020",
+            "month": "9",
+            "cases": 1,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "TGO",
+            "countriesAndTerritories": "Togo",
+            "year": "2020",
+            "month": "9",
+            "cases": 363,
+            "deaths": 21
+        },
+        {
+            "countryterritoryCode": "TTO",
+            "countriesAndTerritories": "Trinidad_and_Tobago",
+            "year": "2020",
+            "month": "9",
+            "cases": 2780,
+            "deaths": 53
+        },
+        {
+            "countryterritoryCode": "TUN",
+            "countriesAndTerritories": "Tunisia",
+            "year": "2020",
+            "month": "9",
+            "cases": 13720,
+            "deaths": 170
+        },
+        {
+            "countryterritoryCode": "TUR",
+            "countriesAndTerritories": "Turkey",
+            "year": "2020",
+            "month": "9",
+            "cases": 48726,
+            "deaths": 1804
+        },
+        {
+            "countryterritoryCode": "TCA",
+            "countriesAndTerritories": "Turks_and_Caicos_islands",
+            "year": "2020",
+            "month": "9",
+            "cases": 179,
+            "deaths": 3
+        },
+        {
+            "countryterritoryCode": "UGA",
+            "countriesAndTerritories": "Uganda",
+            "year": "2020",
+            "month": "9",
+            "cases": 5089,
+            "deaths": 45
+        },
+        {
+            "countryterritoryCode": "UKR",
+            "countriesAndTerritories": "Ukraine",
+            "year": "2020",
+            "month": "9",
+            "cases": 85858,
+            "deaths": 1538
+        },
+        {
+            "countryterritoryCode": "ARE",
+            "countriesAndTerritories": "United_Arab_Emirates",
+            "year": "2020",
+            "month": "9",
+            "cases": 23400,
+            "deaths": 34
+        },
+        {
+            "countryterritoryCode": "GBR",
+            "countriesAndTerritories": "United_Kingdom",
+            "year": "2020",
+            "month": "9",
+            "cases": 111689,
+            "deaths": 573
+        },
+        {
+            "countryterritoryCode": "TZA",
+            "countriesAndTerritories": "United_Republic_of_Tanzania",
+            "year": "2020",
+            "month": "9",
+            "cases": 0,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "VIR",
+            "countriesAndTerritories": "United_States_Virgin_Islands",
+            "year": "2020",
+            "month": "9",
+            "cases": 184,
+            "deaths": 6
+        },
+        {
+            "countryterritoryCode": "USA",
+            "countriesAndTerritories": "United_States_of_America",
+            "year": "2020",
+            "month": "9",
+            "cases": 1193898,
+            "deaths": 22929
+        },
+        {
+            "countryterritoryCode": "URY",
+            "countriesAndTerritories": "Uruguay",
+            "year": "2020",
+            "month": "9",
+            "cases": 448,
+            "deaths": 4
+        },
+        {
+            "countryterritoryCode": "UZB",
+            "countriesAndTerritories": "Uzbekistan",
+            "year": "2020",
+            "month": "9",
+            "cases": 14868,
+            "deaths": 151
+        },
+        {
+            "countryterritoryCode": "VEN",
+            "countriesAndTerritories": "Venezuela",
+            "year": "2020",
+            "month": "9",
+            "cases": 28495,
+            "deaths": 240
+        },
+        {
+            "countryterritoryCode": "VNM",
+            "countriesAndTerritories": "Vietnam",
+            "year": "2020",
+            "month": "9",
+            "cases": 54,
+            "deaths": 3
+        },
+        {
+            "countryterritoryCode": "ESH",
+            "countriesAndTerritories": "Western_Sahara",
+            "year": "2020",
+            "month": "9",
+            "cases": 0,
+            "deaths": 0
+        },
+        {
+            "countryterritoryCode": "YEM",
+            "countriesAndTerritories": "Yemen",
+            "year": "2020",
+            "month": "9",
+            "cases": 82,
+            "deaths": 24
+        },
+        {
+            "countryterritoryCode": "ZMB",
+            "countriesAndTerritories": "Zambia",
+            "year": "2020",
+            "month": "9",
+            "cases": 2690,
+            "deaths": 45
+        },
+        {
+            "countryterritoryCode": "ZWE",
+            "countriesAndTerritories": "Zimbabwe",
+            "year": "2020",
+            "month": "9",
+            "cases": 1425,
+            "deaths": 32
+        }
+    ]
+}
